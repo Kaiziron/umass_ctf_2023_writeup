@@ -1,1 +1,1 @@
-# umass_ctf_2023_writeup
+# UMass CTF 2023 writeup
